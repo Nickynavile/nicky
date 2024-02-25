@@ -1,6 +1,6 @@
 {
   "name": "nikhileshnavile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get to know about Nikhilesh Navile via `npx nickynavile`. ",
   "bin": {
     "nikhileshnavile": "index.js"
@@ -9,12 +9,16 @@
     "cli-welcome": "^2.2.2"
   },
   "main": "index.js",
-  "keywords": ["Nikhilesh", "Nikhileshnavile", "Navile"],
+  "keywords": [
+    "Nikhilesh",
+    "Nikhileshnavile",
+    "Navile"
+  ],
   "license": "MIT",
   "repository": "Nickynavile/nicky",
   "author": {
-        "name": "Nikhilesh Navile",
-        "email": "nickynavile@gmail.com",
-        "url": "https://twitter.com/nickynavile" 
+    "name": "Nikhilesh Navile",
+    "email": "nickynavile@gmail.com",
+    "url": "https://twitter.com/nickynavile"
   }
 }
