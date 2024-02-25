@@ -9,10 +9,12 @@
     "cli-welcome": "^2.2.2"
   },
   "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "keywords": ["Nikhilesh", "Nikhileshnavile", "Navile"],
+  "license": "MIT",
+  "repository": "Nickynavile/nicky",
+  "author": {
+        "name": "Nikhilesh Navile",
+        "email": "nickynavile@gmail.com",
+        "url": "https://twitter.com/nickynavile" 
+  }
 }
