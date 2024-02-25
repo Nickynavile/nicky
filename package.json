@@ -1,7 +1,11 @@
 {
   "name": "nickynavile",
   "version": "1.0.0",
+  "description": "Get to know about Nikhilesh Navile via `npx nickynavile`. ",
   "bin": {
     "nickynavile": "index.js"
+  },
+  "dependencies": {
+    "cli-welcome": "^2.2.2"
   }
 }
