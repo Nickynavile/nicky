@@ -1,6 +1,6 @@
 {
   "name": "nickynavile",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get to know about Nikhilesh Navile via `npx nickynavile`. ",
   "bin": {
     "nickynavile": "index.js"
